@@ -1,1 +1,1 @@
-alert('hacked baby');
+<script>alert('hacked baby')\</script>
