@@ -1,1 +1,1 @@
-<script>alert('hacked baby')</script>
+document.body.innerHTML=`<h1>medo</h1>`;
